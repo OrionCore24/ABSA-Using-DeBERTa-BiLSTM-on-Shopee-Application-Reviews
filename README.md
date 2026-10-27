@@ -158,5 +158,5 @@ This project uses a public Trustpilot ABSA dataset as a source for model fine-tu
 
 ## Author
 
-**[Your Name]**  
+**Denta Septyan Afandi**  
 Undergraduate thesis project — Aspect-Based Sentiment Analysis
